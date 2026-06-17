@@ -1,0 +1,12 @@
+\begin{table}[ht]
+\centering
+\caption{Performance results across datasets.}
+\label{tab:results}
+\begin{tabular}{lcc}
+\hline
+Dataset & Size & \theta^{*} & Accuracy (Mean $\pm$ SD) & MSE (Mean $\pm$ SD) \\
+\hline
+HeartDisease & 303 & (2^{\frac{13}{4}}, 2^{-\frac{1}{2}}, 128, 128) & $0.8174 \pm 0.0289$ & $0.1376 \pm 0.0190$ \\
+\hline
+\end{tabular}
+\end{table}
